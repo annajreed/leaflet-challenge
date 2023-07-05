@@ -1,4 +1,4 @@
--// Store API key as const
+// Store API key as const
 const api_key = "pk.eyJ1IjoidGFsbGFudGo5NSIsImEiOiJjbGQwYmlicW0ydnZmM3BrNjhzcGxoMHVqIn0.NFVBr7AMOYS5BC5OwcXerA";
 
 // Store our API endpoint as queryUrl.
